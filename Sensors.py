@@ -1,9 +1,4 @@
-import time
-import board
-import digitalio 
-import busio
-from analogio import AnalogIn
-import math
+import digitalio
 import microcontroller
 
 
